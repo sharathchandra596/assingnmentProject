@@ -1,0 +1,23 @@
+/* src/pages/Features.css */
+.features-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 80vh;
+  }
+  
+  .features-container h4 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #6d4ebc;
+  }
+  
+  .features-container p {
+    font-size: 1.2rem;
+  }
+  
+  .features-image {
+    max-width: 80%;
+    height: auto;
+  }
+  
