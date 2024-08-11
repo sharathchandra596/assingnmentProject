@@ -1,7 +1,7 @@
 // src/pages/ContactUs.js
 
 import { Container, Row, Col, Form, Button } from 'react-bootstrap';
-import './contactUs.css'; // Import custom CSS
+import './ContactUs.css'; // Import custom CSS
 import img4 from '../../assets/img4.svg';
 
 const ContactUs = () => {
